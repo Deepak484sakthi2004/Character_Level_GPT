@@ -11,13 +11,7 @@ This repository provides the necessary resources and code for creating a Charact
     ```bash
     git clone https://github.com/your-username/char-level-gpt.git
     ```
-
-2. **Install Dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    
 ## Dataset
 The included `Mahabharat.txt` dataset. It looks like:
 
